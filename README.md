@@ -20,3 +20,5 @@ the neural network).
 There is some variability on how well the algorithm performs based on the initial generation 
 of weights and biases. On a good run the highest fitness is around 50, which correspons to eating the food 50 times.
 Below is an example of the highest scoring snake.
+
+![Alt Text](Winner.gif)
